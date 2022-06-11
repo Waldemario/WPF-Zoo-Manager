@@ -1,0 +1,15 @@
+C:\Users\Vovenlove\source\repos\WpfZooManager\WpfZooManager\bin\Debug\WpfZooManager.exe.config
+C:\Users\Vovenlove\source\repos\WpfZooManager\WpfZooManager\bin\Debug\WpfZooManager.exe
+C:\Users\Vovenlove\source\repos\WpfZooManager\WpfZooManager\bin\Debug\WpfZooManager.pdb
+C:\Users\Vovenlove\source\repos\WpfZooManager\WpfZooManager\obj\Debug\WpfZooManager.csprojAssemblyReference.cache
+C:\Users\Vovenlove\source\repos\WpfZooManager\WpfZooManager\obj\Debug\MainWindow.g.cs
+C:\Users\Vovenlove\source\repos\WpfZooManager\WpfZooManager\obj\Debug\App.g.cs
+C:\Users\Vovenlove\source\repos\WpfZooManager\WpfZooManager\obj\Debug\WpfZooManager_MarkupCompile.cache
+C:\Users\Vovenlove\source\repos\WpfZooManager\WpfZooManager\obj\Debug\WpfZooManager_MarkupCompile.lref
+C:\Users\Vovenlove\source\repos\WpfZooManager\WpfZooManager\obj\Debug\MainWindow.baml
+C:\Users\Vovenlove\source\repos\WpfZooManager\WpfZooManager\obj\Debug\WpfZooManager.g.resources
+C:\Users\Vovenlove\source\repos\WpfZooManager\WpfZooManager\obj\Debug\WpfZooManager.Properties.Resources.resources
+C:\Users\Vovenlove\source\repos\WpfZooManager\WpfZooManager\obj\Debug\WpfZooManager.csproj.GenerateResource.cache
+C:\Users\Vovenlove\source\repos\WpfZooManager\WpfZooManager\obj\Debug\WpfZooManager.csproj.CoreCompileInputs.cache
+C:\Users\Vovenlove\source\repos\WpfZooManager\WpfZooManager\obj\Debug\WpfZooManager.exe
+C:\Users\Vovenlove\source\repos\WpfZooManager\WpfZooManager\obj\Debug\WpfZooManager.pdb
